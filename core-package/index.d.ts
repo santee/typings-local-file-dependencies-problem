@@ -1,3 +1,1 @@
-declare module '@company/core-package' {
-    
-}
+import * from 'moment'; 
